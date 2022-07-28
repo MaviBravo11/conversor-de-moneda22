@@ -1,6 +1,6 @@
-##conversor de moneda 2022
-##Usando fetch y API https://www.exchangerate-api.com/
+# conversor de moneda 2022
+# Usando fetch y API https://www.exchangerate-api.com/
 
-#Comentarios:
+## Comentarios:
 - Toma el dólar OFICIAL
 - Falta el dólar BLUE (Argentina)
